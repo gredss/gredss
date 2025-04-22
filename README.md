@@ -19,7 +19,7 @@ Currently, my focus includes:
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, SQL
+- **Languages**: Python, SQL, R
 - **Machine Learning**: scikit-learn, TensorFlow, PyTorch, XGBoost, Hugging Face  
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Tableau  
 - **MLOps & Tools**: Docker, Git, AWS (Academy Learner Lab), Streamlit  
@@ -29,13 +29,13 @@ Currently, my focus includes:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gredss&show_icons=true&theme=default&hide_title=false&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gredss&theme=default&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gredss&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gredss&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gredss&theme=default&hide_border=true&background=00000000" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gredss&layout=compact&hide_border=true&bg_color=00000000" height="150" />
+
+</div>
 
 ---
 
