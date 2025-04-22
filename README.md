@@ -31,9 +31,9 @@ Currently, my focus includes:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gredss&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gredss&theme=default&hide_border=true&background=00000000" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gredss&layout=compact&hide_border=true&bg_color=00000000" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=gredss&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gredss&theme=github_dark_dimmed&hide_border=true&background=00000000" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gredss&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark_dimmed" height="150" />
 
 </div>
 
