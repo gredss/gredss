@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Gredss</h1>
+<h1 align="center">Hello, I'm Grace Esther</h1>
 <p align="center">
   <em>Data Science Student | Aspiring Machine Learning Engineer | Enthusiast in FinTech and AI</em>
 </p>
