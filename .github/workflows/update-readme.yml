@@ -1,29 +1,29 @@
-name: Auto Refresh GitHub Profile
+# name: Auto Refresh GitHub Profile
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"
+#   workflow_dispatch:
 
-jobs:
-  refresh-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+# jobs:
+#   refresh-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
 
-      - name: Add a dummy comment to README
-        run: |
-          echo "<!-- last updated: $(date -u) -->" >> README.md
+#       - name: Add a dummy comment to README
+#         run: |
+#           echo "<!-- last updated: $(date -u) -->" >> README.md
 
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update README with timestamp" || echo "No changes"
+#       - name: Commit changes
+#         run: |
+#           git config user.name "github-actions[bot]"
+#           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+#           git add README.md
+#           git commit -m "Update README with timestamp" || echo "No changes"
 
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+#       - name: Push changes
+#         uses: ad-m/github-push-action@v0.6.0
+#         with:
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
