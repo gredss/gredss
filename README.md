@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <em>Data Science Student | Aspiring Machine Learning Engineer | Enthusiast in FinTech and AI</em>
 </p>
 
