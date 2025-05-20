@@ -48,8 +48,9 @@ Currently, my focus includes:
 
 I’m always open to new opportunities, collaborations, and discussions—especially in the areas of machine learning, MLOps, and fintech innovation.
 
-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg"> LinkedIn: [linkedin.com/in/grace-esther-s](https://www.linkedin.com/in/grace-esther-s/)  
-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/medium.svg"> Medium: *(coming soon)*
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg"> LinkedIn: [linkedin.com/in/grace-esther-s](https://www.linkedin.com/in/grace-esther-s/)  
+
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/medium.svg"> Medium: *(coming soon)*
 
 ---
 
