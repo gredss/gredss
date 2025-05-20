@@ -24,7 +24,7 @@ Currently, my focus includes:
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Tableau  
 - **MLOps & Tools**: Docker, Git, AWS (Academy Learner Lab), Streamlit  
 - **Web Development**: HTML, CSS, JavaScript
-
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,c,css,html,js,figma,docker,fastapi,mysql,py,pytorch,r,scala,sklearn,tensorflow)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Statistics
