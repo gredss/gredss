@@ -1,5 +1,10 @@
-<h1 align="center">Hello, I'm Grace Esther</h1>
+<!-- Typing SVG Animation -->
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Grace+Esther" alt="Typing SVG" />
+  </a>
+</p>
+
   <em>Data Science Student | Aspiring Machine Learning Engineer | Enthusiast in FinTech and AI</em>
 </p>
 
