@@ -1,11 +1,5 @@
-<!-- Typing SVG Animation -->
+<h1 align="center">Hello, I'm G E</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Grace+Esther"
-      alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <em>Data Science Student | Aspiring Machine Learning Engineer | Enthusiast in FinTech and AI</em>
@@ -62,6 +56,11 @@ I’m always open to new opportunities, collaborations, and discussions—especi
 
 ---
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <em>“Driven by curiosity, committed to building data-driven solutions.”</em>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%22Curious+and+committed+to+data-driven+solutions.%22"
+      alt="Typing SVG" />
+  </a>
 </p>
