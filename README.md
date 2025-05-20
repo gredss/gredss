@@ -26,7 +26,7 @@ Currently, my focus includes:
 - **Web Development**: HTML, CSS, JavaScript
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,c,css,html,js,figma,docker,fastapi,mysql,py,pytorch,r,scala,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,c,css,html,js,figma,docker,fastapi,mysql,py,pytorch,r,scala,sklearn,tensorflow&perline=8" />
   </a>
 </p>
 ---
