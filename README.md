@@ -24,7 +24,7 @@ Currently, my focus includes:
 - **Languages**: Python, SQL, R
 - **Machine Learning**: scikit-learn, TensorFlow, PyTorch, XGBoost, Hugging Face  
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Tableau  
-- **MLOps & Tools**: Docker, Git, AWS (Academy Learner Lab), Streamlit  
+- **MLOps & Tools**: Docker, Git, AWS (Academy Learner Lab), Streamlit, FastAPI, Flask
 - **Web Development**: HTML, CSS, JavaScript
 <p align="center">
   <a href="https://skillicons.dev">
