@@ -2,7 +2,7 @@
 <p align="center">
 
 <p align="center">
-  <em>Data Science Student | Aspiring Machine Learning Engineer | Enthusiast in FinTech and Cloud</em>
+  <em>Data Science Student | Aspiring Tech Consultant and Architect/Solution roles | Enthusiast in Data&AI and Cloud</em>
 </p>
 
 ---
