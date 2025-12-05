@@ -14,7 +14,7 @@ I am a data science student from Indonesia with a keen interest in **machine lea
 Currently, my focus includes:
 - Designing and deploying machine learning models using Python.
 - Studying deep learning frameworks and their applications.
-- Implementing MLOps best practices for model reproducibility and scalability.
+- Implementing MLOps & FinOps best practices for model reproducibility and scalability.
 - Exploring how AI can drive innovation in financial services.
 
 ---
