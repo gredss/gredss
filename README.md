@@ -52,7 +52,7 @@ I’m always open to new opportunities, collaborations, and discussions—especi
 
 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg"> LinkedIn: [linkedin.com/in/grace-esther-s](https://www.linkedin.com/in/grace-esther-s/)  
 
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/medium.svg"> Medium: [medium.com/@grace-esther](https://medium.com/@grace-esther)
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/medium.svg"> Medium: [medium.com/@gresesther](https://medium.com/@gresesther)
 
 ---
 
