@@ -2,7 +2,7 @@
 <p align="center">
 
 <p align="center">
-  <em>Data Science Student | Aspiring Architect/Solution roles | Enthusiast in NLP and AI Security</em>
+  <em>Data Science & AI | Aspiring Architect/Solution roles | Enthusiast in NLP and AI Security</em>
 </p>
 
 ---
