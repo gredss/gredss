@@ -8,8 +8,7 @@
 ---
 
 ## 🧠 About Me
-
-I am a data science student from Indonesia with a keen interest in **machine learning**, **DevOps**, and the **intersection of technology, IT solutions, and finance**. I am passionate about transforming data into valuable insights and building scalable, real-world solutions—particularly in FinOps.
+Interest in **machine learning**, **DevOps**, and the **intersection of technology, IT solutions, and finance**. I am passionate about transforming data into valuable insights and building scalable, real-world solutions—particularly in FinOps.
 
 Currently, my focus includes:
 - Designing and deploying machine learning models using Python.
